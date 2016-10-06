@@ -1,2 +1,4 @@
 # hello-world
-Generic repository
+Hello,
+
+This is my generic repository from the tutorial.
